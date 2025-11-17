@@ -1,3 +1,20 @@
+# ⚠️ DO NOT DELETE THIS REPOSITORY
+
+## This repository is used in **Menumium Production**
+
+> **⚠️ WARNING:**  
+> This repository is actively used in **Menumium Production**.  
+> **Do NOT delete, rename, or archive this repo.**  
+> Doing so will break live production systems.  
+>  
+> If you need to make major changes, please contact the DevOps/Engineering team first.
+
+
+<br/>
+<br/>
+<br/>
+
+
 ![banner](https://github.com/dr5hn/countries-states-cities-database/raw/master/.github/images/banner.png)
 
 
