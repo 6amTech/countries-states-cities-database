@@ -1,9 +1,9 @@
 # ⚠️ DO NOT DELETE THIS REPOSITORY
 
-## This repository is used in **Menumium Production**
+## This repository is used in **Production**
 
 > **⚠️ WARNING:**  
-> This repository is actively used in **Menumium Production**.  
+> This repository is actively used in **Production**.  
 > **Do NOT delete, rename, or archive this repo.**  
 > Doing so will break live production systems.  
 >  
